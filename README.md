@@ -1,3 +1,3 @@
-# black_white-changing-color
+javascript-training
 Java Script training 
 use arrow up / down
